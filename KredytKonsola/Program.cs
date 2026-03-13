@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using KredytKonsola;
+
+Kredyt kredyt = new Kredyt(100000, 2000);
+kredyt.AlgorytmObliczajacy();
