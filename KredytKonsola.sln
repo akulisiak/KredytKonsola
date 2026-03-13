@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KredytKonsola", "KredytKonsola\KredytKonsola.csproj", "{4F437F06-E69B-47CA-950E-250FDDC7B6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F437F06-E69B-47CA-950E-250FDDC7B6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F437F06-E69B-47CA-950E-250FDDC7B6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F437F06-E69B-47CA-950E-250FDDC7B6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F437F06-E69B-47CA-950E-250FDDC7B6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4ED238F-6343-4CA9-938B-570F6138D5D6}
+	EndGlobalSection
+EndGlobal
